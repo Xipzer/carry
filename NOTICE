@@ -1,0 +1,12 @@
+Carry
+Copyright 2026 Xipz
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+Circle deployment data and gas reservation floors are derived from Circle's
+Apache-2.0 packages. Their attribution and licence are retained in
+CCTP_REGISTRY.md and public/legal/circle-Apache-2.0.txt.
+
+Network, USDC and WalletConnect artwork belongs to its respective owners.
+Sources and display modifications are documented in BRAND_ASSETS.md.
+No endorsement by Circle or any network is implied.

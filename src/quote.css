@@ -1,0 +1,33 @@
+/* Copyright (c) 2026 Xipz. Licensed under Apache-2.0. */
+.received-quote { display: flex; align-items: center; justify-content: space-between; gap: var(--s-3); margin-top: var(--s-2); }
+.received-quote > div { min-width: 0; }
+.received-quote .field-label { margin-bottom: var(--s-1); }
+.received-quote strong { display: block; font-size: 26px; font-weight: 500; line-height: 1.3; letter-spacing: -.6px; overflow-wrap: anywhere; }
+.received-quote small { display: block; margin-top: var(--s-1); font-size: 11px; color: var(--muted); }
+.funding-destinations { display: flex; align-items: center; justify-content: flex-end; gap: var(--s-2); margin-top: var(--s-2); }
+.funding-destinations > div { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.funding-destinations button { min-height: 36px; display: inline-flex; align-items: center; gap: var(--s-1); padding: var(--s-1) var(--s-2); border: 1px solid var(--line); border-radius: var(--r-control); background: var(--surface); font-size: 11px; color: var(--muted); }
+.funding-destinations button[aria-pressed="true"] { border-color: var(--accent); color: var(--ink); background: var(--accent-soft); }
+.funding-destinations button:hover:not(:disabled) { background: var(--hover); }
+.receiving-routes { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-2); min-width: 0; border: 0; padding: 0; margin: 0 0 var(--s-4); }
+.receiving-routes legend { padding: 0; margin-bottom: var(--s-2); font-size: 12px; color: var(--muted); }
+.receiving-routes legend > span { vertical-align: middle; }
+.receiving-option { display: flex; align-items: center; gap: var(--s-2); min-height: 64px; min-width: 0; padding: var(--s-3); border: 1px solid var(--line); border-radius: var(--r-control); cursor: pointer; }
+.receiving-option.selected { border-color: var(--accent); background: var(--accent-soft); }
+.receiving-option.unavailable { opacity: .5; cursor: not-allowed; }
+.receiving-option input { width: 16px; height: 16px; flex-shrink: 0; margin: 0; accent-color: var(--accent); }
+.receiving-option > span { display: flex; flex-direction: column; min-width: 0; gap: var(--s-1); }
+.receiving-option strong { font-size: 12px; font-weight: 500; }
+.receiving-option small { font-size: 10px; color: var(--muted); }
+.hyperliquid-next-step { display: flex; align-items: center; gap: var(--s-1); margin-top: var(--s-2); min-height: 36px; color: var(--muted); font-size: 11px; }
+.hyperliquid-next-step > a { margin-left: auto; display: inline-flex; align-items: center; gap: var(--s-1); color: var(--accent); min-height: 32px; white-space: nowrap; }
+.pairing-dialog { text-align: center; }
+.pairing-dialog > h2 { font-size: 19px; font-weight: 600; }
+.pairing-dialog > p { margin: var(--s-4) 0; font-size: 12px; color: var(--muted); }
+.pairing-dialog > p:empty { display: none; }
+.pairing-dialog > img { display: block; max-width: 100%; height: auto; margin: var(--s-4) auto; border-radius: var(--r-control); }
+.pairing-dialog > img[hidden] { display: none; }
+.pairing-dialog > a, .pairing-dialog > button { width: 100%; margin-top: var(--s-2); justify-content: center; }
+@media (max-width: 760px) {
+  .received-quote strong { font-size: 24px; }
+}
