@@ -1,0 +1,44 @@
+{
+  "name": "carry-cctp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Transfer native USDC across 25 networks with Circle CCTP. No app fees.",
+  "author": "Xipz",
+  "license": "Apache-2.0",
+  "repository": { "type": "git", "url": "https://github.com/Xipzer/carry.git" },
+  "engines": { "node": ">=22.12.0" },
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5186 --strictPort",
+    "build": "tsc -b && vite build",
+    "build:mainnet": "npm run check:dependencies && VITE_ENABLE_MAINNET_TRANSFERS=true npm run build",
+    "check:dependencies": "node scripts/check-dependencies.mjs",
+    "check:public": "node scripts/check-public-files.mjs",
+    "verify": "npm run check:public && npm test && npm run test:e2e && npm run check:dependencies && npm run build",
+    "preview": "vite preview --host 127.0.0.1 --port 5186 --strictPort",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@walletconnect/universal-provider": "2.26.0",
+    "qrcode": "1.5.4",
+    "lucide-react": "0.468.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "viem": "2.57.13"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "@testing-library/react": "16.3.3",
+    "@types/node": "24.19.2",
+    "@types/qrcode": "1.5.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "5.2.0",
+    "jsdom": "27.4.0",
+    "typescript": "5.9.3",
+    "vite": "8.3.5",
+    "vitest": "4.1.12"
+  }
+}

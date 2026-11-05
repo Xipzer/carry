@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "retrievedAt": "2026-10-30T19:43:02.774031+00:00",
+  "note": "Unmodified official artwork. Network testnets inherit their network brand unless an official testnet asset is supplied. Brand rights remain with the respective owners.",
+  "assets": [
+    {
+      "key": "Arbitrum",
+      "name": "Arbitrum",
+      "kind": "network",
+      "file": "/brand/networks/arbitrum.svg",
+      "sourcePage": "https://arbitrum.io/",
+      "sourceUrl": "https://arbitrum.io/assets/arbitrum/logo_color.svg",
+      "sha256": "aa503c2b5318494157bee5dccf26632932d8571a111981cfd484785d90320920",
+      "bytes": 2053
+    },
+    {
+      "key": "Arc",
+      "name": "Arc",
+      "kind": "network",
+      "file": "/brand/networks/arc.svg",
+      "sourcePage": "https://www.circle.com/pressroom#brandkit",
+      "sourceUrl": "https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Brand/Arc/Arc_Logos.zip",
+      "archiveMember": "Arc_Logos/Arc Network Icon/Arc_network.svg",
+      "sha256": "0c641405f429884228c0db4287e1b89774d21973c2d443b028b7cfa854c6f828",
+      "archiveSha256": "e40ba82f3539280f4b92bbf8079615b13986debe839bb028703373540f05f6ae",
+      "bytes": 1063
+    },
+    {
+      "key": "Avalanche",
+      "name": "Avalanche",
+      "kind": "network",
+      "file": "/brand/networks/avalanche.svg",
+      "sourcePage": "https://www.avalanche.com/",
+      "sourceUrl": "https://www.avalanche.com/favicon-light.svg",
+      "sha256": "8843998a7b91875f3dc6027bd1383ccf97c3d1534d2f3e56d363706039146882",
+      "bytes": 1016
+    },
+    {
+      "key": "Base",
+      "name": "Base",
+      "kind": "network",
+      "file": "/brand/networks/base.svg",
+      "sourcePage": "https://brand.base.org/core-identifiers",
+      "sourceUrl": "https://raw.githubusercontent.com/base/brand-kit/eba9e730be34f8c9ae7f9a21f32cc6aafebe2ad1/logo/TheSquare/Digital/Base_square_blue.svg",
+      "sha256": "b4f2b487011713f98481cc53c4ce095629b4876acbdbc2f0f3ad69a9688ba82e",
+      "bytes": 672
+    },
+    {
+      "key": "Codex",
+      "name": "Codex",
+      "kind": "network",
+      "file": "/brand/networks/codex.svg",
+      "sourcePage": "https://codex.xyz/brand",
+      "sourceUrl": "https://codex.xyz/Codex-Brand-Kit.zip",
+      "archiveMember": "Codex-Brand-Kit/Logo/SVGs/codex-logomark-gradient-light.svg",
+      "sha256": "6047329d97695e73d2e9ce8dddff95e71b41a75fdbb324b3faccfdd314a0dee6",
+      "archiveSha256": "86856c6d96d30d2e111bbc2ac7b827b2ec28bf1a07d6709eb1de0bf1ffadbd59",
+      "bytes": 1094
+    },
+    {
+      "key": "Cronos",
+      "name": "Cronos",
+      "kind": "network",
+      "file": "/brand/networks/cronos.svg",
+      "sourcePage": "https://cronos.com/",
+      "sourceUrl": "https://cronos.com/favicon.svg",
+      "sha256": "f53dfe7f14cc6052e9082b3c12d40695ba63e486f1077e8feeac728fa4c6fcd9",
+      "bytes": 896
+    },
+    {
+      "key": "Edge",
+      "name": "EDGE / edgeX",
+      "kind": "network",
+      "file": "/brand/networks/edge.ico",
+      "sourcePage": "https://pro.edgex.exchange/en-US/home",
+      "sourceUrl": "https://pro.edgex.exchange/favicon.ico",
+      "sha256": "71ca7d31ce889f2d85f5873cf03bdcea9f0a381461ff580f2358a757e80a74d6",
+      "bytes": 10339
+    },
+    {
+      "key": "Ethereum",
+      "name": "Ethereum",
+      "kind": "network",
+      "file": "/brand/networks/ethereum.svg",
+      "sourcePage": "https://ethereum.org/en/assets/",
+      "sourceUrl": "https://ethereum.org/images/assets/svgs/eth-diamond-purple.svg",
+      "sha256": "7320e64e211db747308cc3e546e5360d42f3790b7a14fba0504573790e17f124",
+      "bytes": 476
+    },
+    {
+      "key": "HyperEVM",
+      "name": "HyperEVM / Hyperliquid",
+      "kind": "network",
+      "file": "/brand/networks/hyperevm.png",
+      "sourcePage": "https://hyperfoundation.org/",
+      "sourceUrl": "https://hyperfoundation.org/apple-touch-icon.png",
+      "sha256": "3afc37880910082a38dfa95411f9b8d8d8147f6d0ffabbcd356e907535510ed1",
+      "bytes": 7469
+    },
+    {
+      "key": "Injective",
+      "name": "Injective",
+      "kind": "network",
+      "file": "/brand/networks/injective.svg",
+      "sourcePage": "https://injective.com/brand",
+      "sourceUrl": "https://injective.com/brand/injective_icon.zip",
+      "archiveMember": "Icon/SVG/Injective Token.svg",
+      "sha256": "2efca23cf4ba4e6f585ee6028af4cbaa655a3684d2a545b90d677dde10b67d57",
+      "archiveSha256": "8ab878e7d0d95c1dc4dfe5b4ed0ef61c0ea858807ac56546a9d84975bdc869cf",
+      "bytes": 1776
+    },
+    {
+      "key": "Ink",
+      "name": "Ink",
+      "kind": "network",
+      "file": "/brand/networks/ink.svg",
+      "sourcePage": "https://inkonchain.com/",
+      "sourceUrl": "https://inkonchain.com/icon.svg",
+      "sha256": "3dc342c7d4acfacc3c5c65609ca721cdc974beae5e34cf39c6d0c586a587849a",
+      "bytes": 19864
+    },
+    {
+      "key": "Linea",
+      "name": "Linea",
+      "kind": "network",
+      "file": "/brand/networks/linea.png",
+      "sourcePage": "https://linea.build/",
+      "sourceUrl": "https://linea.build/apple-touch-icon.png",
+      "sha256": "11801d8f9c3953f1915b5753fb0a6413c00524e54eef3f1ed95ead4b56fe778f",
+      "bytes": 2539
+    },
+    {
+      "key": "Monad",
+      "name": "Monad",
+      "kind": "network",
+      "file": "/brand/networks/monad.svg",
+      "sourcePage": "https://monad.xyz/brand-and-media-kit",
+      "sourceUrl": "https://monad.xyz/brand-page-assets/Token.svg",
+      "sha256": "5ad0b4aa249fa5c3034dd4656195db01c9f0a95320f4aace24309a705d96ea28",
+      "bytes": 1530
+    },
+    {
+      "key": "Morph",
+      "name": "Morph",
+      "kind": "network",
+      "file": "/brand/networks/morph.svg",
+      "sourcePage": "https://morph.network/",
+      "sourceUrl": "https://morph.network/morphlogo-icon.svg",
+      "sha256": "8642dfee7718b0b33607fcd380b012fe997b101a438ba723688adc8c3fabedb7",
+      "bytes": 1051
+    },
+    {
+      "key": "Optimism",
+      "name": "Optimism",
+      "kind": "network",
+      "file": "/brand/networks/optimism.png",
+      "sourcePage": "https://optimism.io/",
+      "sourceUrl": "https://cdn.sanity.io/images/y6ka751a/production/b5455d6825417cb9be16dfda5471a72360102118-64x64.png",
+      "sha256": "99872456f20999c4b2bcaa4ec3d0ea4c8f8d1c1de2a62afca0bb2efd9da67bf6",
+      "bytes": 810
+    },
+    {
+      "key": "Pharos",
+      "name": "Pharos",
+      "kind": "network",
+      "file": "/brand/networks/pharos.png",
+      "sourcePage": "https://www.pharos.xyz/",
+      "sourceUrl": "https://cdn.prod.website-files.com/67dbfb55a03319f79c3c7c12/68c299c220615696c95a3ba2_Webclip%20_symbol%20icon_blue.png",
+      "sha256": "06213df116691490b6306ac8b85870cad46a048c5a44dfacc86c23a041cd1e89",
+      "bytes": 5851
+    },
+    {
+      "key": "Plasma",
+      "name": "Plasma",
+      "kind": "network",
+      "file": "/brand/networks/plasma.svg",
+      "sourcePage": "https://www.plasma.org/",
+      "sourceUrl": "https://www.plasma.org/favicon-light.svg",
+      "sha256": "54c571bc2065312c32e8bf5a4491f8481b36948c7adb66c443e48f7b9c4de8e0",
+      "bytes": 6051
+    },
+    {
+      "key": "Plume",
+      "name": "Plume",
+      "kind": "network",
+      "file": "/brand/networks/plume.png",
+      "sourcePage": "https://www.plume.org/",
+      "sourceUrl": "https://www.plume.org/apple-icon-180x180.png",
+      "sha256": "a48c82bdc33b3c9df79b8129eef9627241157d0e33531f49b634e99921efdb9c",
+      "bytes": 7356
+    },
+    {
+      "key": "Polygon",
+      "name": "Polygon",
+      "kind": "network",
+      "file": "/brand/networks/polygon.svg",
+      "sourcePage": "https://polygon.technology/",
+      "sourceUrl": "https://polygon.technology/favicon.svg",
+      "sha256": "7eda178dc46658f07c55fa47d0d4d51840547f1ff73eab4da28a22923f9baf5b",
+      "bytes": 515
+    },
+    {
+      "key": "Sei",
+      "name": "Sei",
+      "kind": "network",
+      "file": "/brand/networks/sei.svg",
+      "sourcePage": "https://www.sei.io/",
+      "sourceUrl": "https://www.sei.io/icon.svg",
+      "sha256": "9021750277fa84dd124e1b15adb7a7858353a0b2d9b5de101a204be83cd26ebf",
+      "bytes": 2181
+    },
+    {
+      "key": "Sonic",
+      "name": "Sonic",
+      "kind": "network",
+      "file": "/brand/networks/sonic.png",
+      "sourcePage": "https://www.soniclabs.com/",
+      "sourceUrl": "https://www.soniclabs.com/apple-touch-icon.png",
+      "sha256": "dea095d4f9327ec0c348cea69cc78b1b218911b1cac088553c7d8c27bc269711",
+      "bytes": 17816
+    },
+    {
+      "key": "Unichain",
+      "name": "Unichain mainnet",
+      "kind": "network",
+      "file": "/brand/networks/unichain.svg",
+      "sourcePage": "https://www.unichain.org/brand-kit",
+      "sourceUrl": "https://www.unichain.org/assets/zip/unichain-brand-kit.zip",
+      "archiveMember": "Unichain Brand Kit /Network icons/Mainnet.svg",
+      "sha256": "8ba79e0eb1112cfef67e498303e0acbe81b93d29c96739393aea03f93d1add69",
+      "archiveSha256": "a472263cb0db25d957d6bdc62da87ce286cbfeebfb6c2d20770dabd93bfbf265",
+      "bytes": 654
+    },
+    {
+      "key": "Unichain_Sepolia",
+      "name": "Unichain Sepolia",
+      "kind": "network",
+      "file": "/brand/networks/unichain-sepolia.svg",
+      "sourcePage": "https://www.unichain.org/brand-kit",
+      "sourceUrl": "https://www.unichain.org/assets/zip/unichain-brand-kit.zip",
+      "archiveMember": "Unichain Brand Kit /Network icons/Testnet.svg",
+      "sha256": "7da2866015896502f6bf006fba8800d7040599eee417a9574684ae42880f4e48",
+      "archiveSha256": "a472263cb0db25d957d6bdc62da87ce286cbfeebfb6c2d20770dabd93bfbf265",
+      "bytes": 2430
+    },
+    {
+      "key": "World_Chain",
+      "name": "World Chain",
+      "kind": "network",
+      "file": "/brand/networks/world-chain.png",
+      "sourcePage": "https://world.org/world-chain",
+      "sourceUrl": "https://world.org/favicon/apple-touch-icon.png",
+      "sha256": "819bcf5dd733d0d64c880496ff1455f40a9c8fac7e1f1fcc60cb1673d8f4ca03",
+      "bytes": 5177
+    },
+    {
+      "key": "XDC",
+      "name": "XDC Network",
+      "kind": "network",
+      "file": "/brand/networks/xdc.png",
+      "sourcePage": "https://xdc.org/",
+      "sourceUrl": "https://xdc.org/apple-touch-icon.png",
+      "sha256": "7ee4519861102db41b247c2b78493ae89544cf2bf5f518fac84939ec823be3ea",
+      "bytes": 11587
+    },
+    {
+      "key": "X_Layer",
+      "name": "X Layer",
+      "kind": "network",
+      "file": "/brand/networks/x-layer.png",
+      "sourcePage": "https://web3.okx.com/xlayer",
+      "sourceUrl": "https://web3.okx.com/cdn/assets/imgs/372/A9A58748F0D44B5280278DD62FDD6876.png",
+      "sha256": "cf32fdca55bed8cb93bb08f2166fb32fa5c03e816deadc663060a95bdc0d34bb",
+      "bytes": 25430
+    },
+    {
+      "key": "USDC",
+      "name": "USDC",
+      "kind": "token",
+      "file": "/brand/tokens/usdc.svg",
+      "sourcePage": "https://www.circle.com/pressroom#brandkit",
+      "sourceUrl": "https://6778953.fs1.hubspotusercontent-na1.net/hubfs/6778953/Pressroom/brandkit/logo-downloads/usdc.zip",
+      "archiveMember": "Token Logo/USDC Token.svg",
+      "sha256": "fe4f9d5f34ef4ebeb5d80e1f5ff63dcaf5a0d5495f4adf206e4c3011d1f5c57d",
+      "archiveSha256": "538ce962b272760340db1ff53e8a26ce28f22a573fcd4bc9681f0fd44e1dfa82",
+      "bytes": 1309
+    },
+    {
+      "key": "WalletConnect",
+      "name": "WalletConnect",
+      "kind": "wallet",
+      "file": "/brand/wallets/walletconnect.svg",
+      "sourcePage": "https://brand.walletconnect.com/",
+      "sourceUrl": "https://brand.walletconnect.com/favicon.svg",
+      "sha256": "0a35fc24d60988f166baf0e4f477ef833f913cd002fee759223edb6659512751",
+      "bytes": 648
+    }
+  ]
+}
